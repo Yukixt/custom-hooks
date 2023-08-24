@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from 'react';
-import { todoReducer } from '../08-userReducer/todoReducer';
+import { todoReducer } from './todoReducer';
 import { formatDate } from '../08-userReducer/dateUtils';
 
 
